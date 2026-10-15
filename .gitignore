@@ -1,0 +1,19 @@
+# Compilações e binários Arduino / PlatformIO
+*.bin
+*.hex
+*.elf
+*.o
+*.d
+*.a
+build/
+.cache/
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.log
